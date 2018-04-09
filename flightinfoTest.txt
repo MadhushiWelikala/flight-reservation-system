@@ -1,0 +1,219 @@
+#
+CMB,Colombo,Srilanka
+CUC,Kolkata,India
+LHR,London,United Kingdom
+HND,Tokyo,Japan
+AKL,Auckland,New Zealand
+JFK,New York,United States
+CDG,Paris,France
+#
+**
+QR,Qatar Airways
+*
+QR 0655,03-12-2016,CMB,CDG,20:55,06:30
+ffff@ffff@ffff@ffff@
+ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@
+ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@
+*
+QR 1675,05-12-2016,HND,LHR,10:35,22:10
+tfff@ffff@ffff@ffff@
+ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@
+ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffft@
+*
+QR 1288,08-12-2016,JFK,CMB,03:15,23:30
+ffff@ffff@ffff@ffff@
+ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@
+ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@
+*
+QR 0786,07-12-2016,AKL,CUC,08:30,20:15
+ffff@ffff@ffff@ffff@
+ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@
+ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@
+*
+QR 1289,09-12-2016,CMB,JFK,10:30,22:15
+ffff@ffff@ffff@ffff@
+ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@
+ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@
+*
+QR 1676,10-12-2016,LHR,HND,11:35,23:10
+ffff@ffff@ffff@ffff@
+ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@
+ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@
+*
+QR 0656,05-12-2016,CDG,CMB,22:55,08:30
+ffff@ffff@ffff@ffff@
+ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@
+ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@
+*
+QR 0787,11-12-2016,CUC,AKL,09:50,20:15
+ffff@ffff@ffff@ffff@
+ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@
+ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@
+**
+EK,Emirates Airline
+*
+EK 1583,09-12-2016,CMB,LHR,09:30,23:30
+ffff@ffff@ffff@ffff@
+ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@
+ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@
+*
+EK 7351,11-12-2016,HND,JFK,10:30,22:45
+ffff@ffff@ffff@ffff@
+ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@
+ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@
+*
+EK 4938,15-12-2016,CUC,LHR,02:30,22:45
+ffff@ffff@ffff@ffff@
+ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@
+ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@
+*
+EK 5621,20-12-2016,CDG,LHR,04:30,21:45
+ffff@ffff@ffff@ffff@
+ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@
+ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@
+*
+EK 1584,13-12-2016,LHR,CMB,21:45,10:30
+ffff@ffff@ffff@ffff@
+ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@
+ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@
+*
+EK 7352,20-12-2016,JFK,HND,20:30,06:45
+ffff@ffff@ffff@ffff@
+ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@
+ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@
+*
+EK 4939,17-12-2016,LHR,CUC,05:30,23:45
+ffff@ffff@ffff@ffff@
+ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@
+ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@
+*
+EK 5622,23-12-2016,LHR,CDG,15:30,06:45
+ffff@ffff@ffff@ffff@
+ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@
+ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@
+**
+UL,Srilankan Airline
+*
+UL 2583,14-12-2016,CMB,JFK,11:30,23:45
+ffff@ffff@ffff@ffff@
+ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@
+ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@
+*
+UL 7456,17-12-2016,CMB,LHR,05:30,21:45
+ffff@ffff@ffff@ffff@
+ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@
+ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@
+*
+UL 9432,18-12-2016,CUC,HND,09:30,19:45
+ffff@ffff@ffff@ffff@
+ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@
+ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@
+*
+UL 1879,18-12-2016,AKL,CDG,11:30,21:45
+ffff@ffff@ffff@ffff@
+ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@
+ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@
+*
+UL 2584,16-12-2016,JFK,CMB,09:30,22:45
+ffff@ffff@ffff@ffff@
+ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@
+ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@
+*
+UL 7457,22-12-2016,LHR,CMB,08:45,23:45
+ffff@ffff@ffff@ffff@
+ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@
+ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@
+*
+UL 9433,21-12-2016,HND,CUC,11:30,23:45
+ffff@ffff@ffff@ffff@
+ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@
+ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@
+*
+UL 1880,24-12-2016,CDG,AKL,21:30,10:45
+ffff@ffff@ffff@ffff@
+ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@
+ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@
+**
+JL,Japan Airlines
+*
+JL 3698,18-12-2016,LHR,CMB,10:45,23:30
+ffff@ffff@ffff@ffff@
+ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@
+ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@
+*
+JL 6489,22-12-2016,HND,JFK,08:45,23:45
+ffff@ffff@ffff@ffff@
+ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@
+ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@
+*
+JL 5284,25-12-2016,AKL,CUC,07:50,23:45
+ffff@ffff@ffff@ffff@
+ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@
+ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@
+*
+JL 2973,14-12-2016,HND,CMB,21:30,10:45
+ffff@ffff@ffff@ffff@
+ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@
+ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@
+*
+JL 3699,23-12-2016,CMB,LHR,06:45,20:30
+ffff@ffff@ffff@ffff@
+ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@
+ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@
+*
+JL 6490,25-12-2016,JFK,HND,05:45,19:45
+ffff@ffff@ffff@ffff@
+ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@
+ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@
+*
+JL 5285,27-12-2016,CUC,AKL,05:50,22:45
+ffff@ffff@ffff@ffff@
+ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@
+ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@
+*
+JL 2974,18-12-2016,CMB,HND,21:30,10:45
+ffff@ffff@ffff@ffff@
+ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@
+ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@
+**
+US,US Airways
+*
+US 8253,18-12-2016,JFK,CMB,11:45,23:30
+ffff@ffff@ffff@ffff@
+ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@
+ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@
+*
+US 6472,22-12-2016,HND,JFK,08:45,23:45
+ffff@ffff@ffff@ffff@
+ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@
+ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@
+*
+US 8524,14-12-2016,JFK,AKL,07:50,23:45
+ffff@ffff@ffff@ffff@
+ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@
+ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@
+*
+US 9245,14-12-2016,HND,CMB,21:30,10:45
+ffff@ffff@ffff@ffff@
+ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@
+ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@
+*
+US 8052,20-12-2016,CMB,JFK,11:45,23:30
+ffff@ffff@ffff@ffff@
+ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@
+ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@
+*
+US 6070,23-12-2016,JFK,HND,08:45,23:45
+ffff@ffff@ffff@ffff@
+ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@
+ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@
+*
+US 8222,24-12-2016,JFK,AKL,07:50,23:45
+ffff@ffff@ffff@ffff@
+ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@
+ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@
+*
+US 9048,25-12-2016,CMB,HND,21:30,10:45
+ffff@ffff@ffff@ffff@
+ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@ffffff@
+ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@ffffffff@
